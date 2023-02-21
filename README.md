@@ -1,4 +1,4 @@
-# my_messenger
+# bmi_calculator
 
 A new Flutter project.
 
