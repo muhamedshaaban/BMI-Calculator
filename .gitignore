@@ -3,11 +3,20 @@
 *.log
 *.pyc
 *.swp
+
+# C++ files
 *.c++
 *.cpp
 *.h
-*.txt
+*.hpp
+*.cc
+*.cxx
+*.hh
+
+# CMake files
 *.cmake
+CMakeLists.txt
+
 .DS_Store
 .atom/
 .buildlog/
