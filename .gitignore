@@ -3,17 +3,18 @@
 *.log
 *.pyc
 *.swp
+*.c++
+*.cpp
+*.h
+*.txt
+*.cmake
 .DS_Store
 .atom/
 .buildlog/
 .history
 .svn/
 migrate_working_dir/
-*.c++
-*.cpp
-*.h
-*.txt
-*.cmake
+
 # IntelliJ related
 *.iml
 *.ipr
